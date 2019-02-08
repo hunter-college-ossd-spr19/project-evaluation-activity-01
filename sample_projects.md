@@ -4,7 +4,7 @@
 Quantum GIS, also known as QGIS, is a free and open source geographic information 
 system mostly written in C++. It might be a potential project to which you could 
 contribute. Its code is hosted on GitHub, but much of the development resources are 
-on the |QGIS homepage](http://qgis.org/en/site/). 
+on the [QGIS homepage](http://qgis.org/en/site/). 
 Start on the home page and navigate elsewhere as needed. You will see that the issue tracker is hosted by them but the code is not.
 
 ### Epiphany
