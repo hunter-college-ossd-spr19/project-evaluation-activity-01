@@ -21,7 +21,7 @@ LibreOffice is an integrated office suite based on copyleft licenses and compati
 with most document formats and standards. It is mostly written in C++. 
 Start on [OpenHub](https://www.openhub.net/) to explore this project. The page  is 
 [LibreOffice](https://www.openhub.net/p/libreoffice). 
-The code is hosted on GitHub. Evaluate the core part of the project. 
+The code is hosted on GitHub. Evaluate the core part of the project, [core](https://github.com/LibreOffice/core).
 You will see that there are five separate locations for code; the core is the last of these.
 
 ### Sahana Eden
@@ -37,12 +37,27 @@ reference documentation. It is mostly written in C++.
 Start on OpenHub to explore this project. 
 The page for Doxygen is [DOXygen](https://www.openhub.net/p/doxygen). 
 
+### Empathy
 
-## Other Projects Hosted on GitHub 
+Empathy is  a messaging program which supports text, voice, and video chat and
+file transfers over many different protocols. Look at the [Wiki](https://wiki.gnome.org/Apps/Empathy)
+and the [repository](https://gitlab.gnome.org/GNOME/empathy). It is written almost entirely in Python.
+
+### ITK
+ITK is short for *Insight Segmentation and Registration ToolKit*. It is an
+open-source, cross-platform system that provides developers with an extensive
+suite of software tools for image analysis. Developed through extreme programming
+methodologies, ITK employs leading-edge algorithms for registering and segmenting
+multidimensional data. Start at the home page for the project: [Insight Segmentation and Registration ToolKit](http://www.itk.org/)
+
+
+## Other Projects 
 
 * [Facebook folly](https://github.com/facebook/folly)
 
 * [Gnome Accessibility Tookit](https://github.com/GNOME/atk)
 
 * [OpenFoodFacts Server](https://github.com/openfoodfacts/openfoodfacts-server)
+
+
 
