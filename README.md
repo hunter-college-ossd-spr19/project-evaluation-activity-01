@@ -9,7 +9,7 @@ The repository contains a file named `evaluation_template.md` and a list of
 projects in a file named `sample_projects.md`.
 The `evaluation_template.md` file is a questionnaire to be answered for each project that
 you evaluate. Therefore, you need to replicate the questionnaire for each project, making a copy of it
-before you start. As an exampel if you evaluate a project named `Go` and a project 
+before you start. As an example if you evaluate a project named `Go` and a project 
 named `sketchy`, 
 you would copy the template into two files named `Go_evaluation.md` and `sketchy_evaluation.md`
 respectively.
